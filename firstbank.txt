@@ -1,2 +1,3 @@
 We are adding this line from the cli after our first push/pull
 Now, we add another line to this file from the hub as a demo again
+This to test how the git pull to the local repo works
