@@ -2,3 +2,4 @@ This is Mgbolu Maduemezia family. I pray that the good God will continue to bles
 
 This is another change to see how git responds to changes in source code
 Am making another change to the file uba.txt
+This is a changed made from the github GUI. We will try to view this cahnge from the local repo
